@@ -11,6 +11,7 @@ Un blog creado para el curso de Git y GitHub de Platzi
 * Multiples ejericicios para practicar
 * Creado por Daniel Perea
 * Incluye ejemplos en Windows
-* Introducción a Binance
+* Introducción a Binances
+* Disponible para todos los paises
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
