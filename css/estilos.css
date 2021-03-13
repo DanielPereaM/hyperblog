@@ -15,10 +15,11 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    font-size: 150%;
 }
 
 #cabecera #logo {
-    width: 20px;
+    width: 60px;
     vertical-align: middle;
 }
 
